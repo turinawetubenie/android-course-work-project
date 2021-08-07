@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   android:checkableBehavior="single">
+    <item android:id="@+id/nv_settings"
+        android:icon="@drawable/settings"
+        app:showAsAction="never"
+        android:title="settings"/>
+
+    <item android:id="@+id/nav_profile"
+        android:icon="@drawable/person"
+        app:showAsAction="never"
+        android:title="Profile"/>
+    <item android:id="@+id/nv_about"
+        android:icon="@drawable/logout"
+        app:showAsAction="never"
+        android:title="Logout"/>
+
+    <item android:id="@+id/preferences"
+        android:title="pereferences">
+        <menu>
+            <item android:id="@+id/backup"
+                android:icon="@drawable/backup"
+                app:showAsAction="never"
+                android:title="Backup"/>
+            <item android:id="@+id/help"
+                android:icon="@drawable/help"
+                app:showAsAction="never"
+                android:title="Help and Feedback"/>
+            <item android:id="@+id/share"
+                app:showAsAction="never"
+                android:icon="@drawable/share"
+                android:title="Share Via WhatsApp"/>
+        </menu>
+    </item>
+
+</menu>

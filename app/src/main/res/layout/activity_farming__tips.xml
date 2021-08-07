@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:fillViewport="true"
+    android:layout_height="match_parent"
+    tools:context=".Farming_Tips"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <ImageView
+
+            android:layout_width="171dp"
+            android:layout_height="171dp"
+            android:src="@drawable/beans"
+            android:onClick="beans"/>
+
+            <ImageView
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:onClick="tomatoes"
+                android:src="@drawable/tree"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:src="@drawable/carrot"
+                android:onClick="carrot"/>
+
+            <ImageView
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:onClick="paper"
+                android:src="@drawable/paper" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:src="@drawable/passinf"
+                android:onClick="passion_fruit"/>
+
+            <ImageView
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:onClick="Water_mellon"
+                android:src="@drawable/mellon" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:src="@drawable/rab"
+                android:onClick="rabbit"/>
+
+            <ImageView
+                android:layout_width="171dp"
+                android:layout_height="171dp"
+                android:onClick="fish"
+                android:src="@drawable/fish" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

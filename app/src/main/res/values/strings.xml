@@ -1,0 +1,414 @@
+<resources>
+    <string name="app_name">MyFarmUg</string>
+    <string-array name="district">
+        <item>Select your home district</item>
+        <item>Bushenyi</item>
+        <item>Sheema</item>
+        <item>Rubirizi</item>
+        <item>Mitooma</item>
+        <item>Mbarara</item>
+        <item>Ntungamao</item>
+        <item>Buhweju</item>
+        <item>Masaka</item>
+        <item>Kabale</item>
+        <item>Rukungiri</item>
+    </string-array>
+    <string-array name="period">
+        <item>less than a year</item>
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+        <item>6 years</item>
+        <item>7 years</item>
+        <item>8 years</item>
+        <item>9 years</item>
+        <item>10 and above years</item>
+    </string-array>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/design_default_color_on_primary</item>
+        <item name="colorPrimaryDark">@color/design_default_color_on_primary</item>
+        <item name="colorAccent">@color/design_default_color_on_primary</item>
+    </style>
+
+    <style name="AppTheme.NoActionBaar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <string name="beans">
+       Beans Farming tips\n
+        \n
+        PLANTING\n
+        \n
+        Propagation is by seeds. it is advisable to use certified seeds or those that are disease free. Wrinkled, damaged and diseased seeds should not be planted.\n
+        \n
+        Planting should be done at onset of the rains if production is rain fed. Delay in sowing may lead to crop failure or reduced yeild.\n
+        \n
+        Seeds are planted at a spacing of 40*15cm (2seeds per hill) 0r 30*15cm(1seed per hill), at a depth of 1-2 inches.\n
+        \n
+        The crop can be intercropped with others like maize.\n
+        \n
+        Seeds germinate within 4-7 days, depending on the variety and enviromental factors.\n
+        \n
+        NB; Do no plant beans where soil Nitrogen is too high or whre green manure crops wre gron. this is because, the crops will produce green foliage with very fer benas.\n
+        \n
+        ATTACKS and CONTROLS\n
+        \n
+
+        1. Alnernaria leafe spot.\n
+        \n
+        Plants in nitrogen and potassium deficients soils are more susceptible\n
+        Plant beans in fertile soils.
+        \n
+        2. Anthranose.\n
+        Disease tranmitted throug infected seed.\n
+        \n
+        Remove crop debris from farm.\n
+        \n
+        Plant resistant varieties\n
+        \n
+        Use certified disease free seed and lastly avoid sprinkler irrigation, water plants at base.\n
+        \n
+        3. Bacteria Blight\n
+        \n
+        Disease can be introduced by contaminated seed.\n
+        \n
+        Plant resistant varieties.\n
+        \n
+        Treat seeds with an appropriate antibiotics
+    </string>
+    <string name="tomat">
+
+        Tree Tomato Farming\n
+        \n
+        Ecological Requirements\n
+        \n
+        Tree tomatoes prefer subtriopical climate.\n
+        \n
+        For vigorous growth, they require well-drained fertile soil which is rich in organic matter. The soil must be permeable since the plant are not tolerant to water-logging. \n
+         \n
+        Tree tomatoes grow naturally on soils with a pH of 5 to 8.5 and do not tolerate tightly composed soil. \n
+         \n
+        Although they can be planted under irrigation, ranfall between 600 and 4000mm is suitable. The crop cannot survive in areas with prolonged drought and muat have ample
+        water during the dry season. Application of mulch retain moisture in a tree tomato platation and also reduce weed groth. \n
+         \n
+        Annual temperature betwee 15 and 20^0C are ideal for tree tomato production.
+        It is intolerant to frost(below - 2^0 c) and drought stress \n
+         \n
+        Tree tomatoes grow well in alititude of between 1,500m to 3,000m above the sea level. \n
+         \n
+        FIELD OPERATIONS \n
+         \n
+        Propagation of tree tomato is by seeds or cuttins. However, the easiest way to grow tomato is through seedlings. \n
+         \n
+        Seedlings first develop straight, about 1.5 to 8.5 m tall trunks, before they branch out, while cuttings develop into shoter bushey plants
+        with low- lying branches. \n
+         \n
+        Selection of planting site is also very impartant. \n
+         \n
+        PLANTING \n
+         \n
+        Seeds should be treated against soil-borne pests, soil-borne fungul infections and seed dormancy. This is achieved through drenching nursery bed.
+         \n
+        The distance from one plant to the next should be 4feet and sapce between one row and the next should be 5 feet. \n
+         \n
+        Cuttings should only be got from plants which are 1-2 years old with a thickness of 1.5 to 2.5 cm and a lenth of 45 to 75 cm. They are sown directly at a spacing of 3x3m. \n
+         \n
+        Plants grown from cuttings branch out earlier and results in more shrub-like plants that are more suitable for exposeed sites.
+        They should not be allowed to bear the first year. \n
+         \n
+        Weeding \n
+         \n
+        It is essential to keep the fields free from weeds. This is because weeds compete for groth factors like nutrients, space, water, sunlight as well as harboring pathogens and thetse greatly affect performance. \n
+         \n
+        MUlching. \n
+         \n
+        This has several benefits to the crop, eg. cnservation of moisture, suppresion of weed groth, nutrient supply and improvement of soil structure
+        and water infiltration, checking of soil erosion and topsoil temperature as well as reduction of pests incidence. \n
+         \n
+        Watering \n
+         \n
+        To maximize and stabilize production, water and nutrients inputs should be provided when needed. The plants need a continuous supply of water due to their shallow root system. Water stress results in a decrease in plant growth and production. \n
+         \n
+        Pruning \n
+         \n
+        When the tree is about 1 to 1.5 M in height, it is advisable to cut the roots on one side and lean the tree to the other (in the direction of the midday sun
+         at about 30 to 45 degrees).
+         Pruning helps to control fruit size, plant size and harvest  date.
+        It allows fruiting branches to grow all the trunk rather than just at top. \n
+         \n
+
+    </string>
+    <string name="rabbit">
+        You can start raising rabbits by collecting a single pair of mature breeder rabbits.\n
+        Then, you have to take good care of them. \n
+        \n
+        It is not hard because they demand less treatment.\n
+        In natural circumstances, they will give birth at the age of 6 months.
+        \n
+        Twice a year. Each time they will give birth to 6-8 kits. So, after a full year, you basically have an army of rabbits.\n
+        \n
+        Now,  what you need to know about starting a farm?\n
+
+Before, taking actions a rabbit farmer need to know this-\n
+
+1.Their behavior – Important to strengthen care.\n
+2.Shelter – Make plans for housing before start raising rabbits.\n
+3.Feeding process.\n
+4.Care, setup, and maintenance\n
+5.Diseases and the prevention steps\n
+6.Most importantly the breeding process.\n
+        Rabbits Behavior:\n
+On a farm, you must provide a healthy environment. Otherwise, the growth will be hampered. In addition, they can be less productive. Even if grow them as a pet, you have to learn their behaviors.
+\n
+        \n
+General Information:\n
+Rabbits are originated from Europe and Africa,
+Adult rabbit can grow up to 40 centimeters,
+At the adult age, normally it has 1.2 – 1.4 kg.\n
+Habitat in Captivity: You can rise them everywhere. As the perfect home, it loves the tranquil environment. They do not survive well in the hottest places. However, they are comfortable in a home under a shade or tree that has guard against heat exhaustion or hypothermia.
+
+        \nCommon Behavior:
+According to their manner, there are common characteristics are-\n
+They are very social creatures, enjoy gentle companionship.\n
+Barris are very crafty and quick.\n
+Body Language:\n
+They are usually silent pets with subtle body language. A rabbit’s response can vary based on their age, personality, or past experiences. However, it’s common to see rabbits who are frightened or in pain develop habits such as aggression or hiding.
+\n
+Maturity: Around 16-24 weeks.\n
+Gestation: Normally, one month 30 days.\n
+Life span:  On average, eight to twelve years.\n
+Daily Water Intake: On average 100ml+.\n
+However, These animals are often misunderstood. People think that they are timid- due to their natural response to noises and quick movements. This behavior is a survival characteristic typical to maximum bunnies.
+\n
+Rabbit cage Size and Maintenance tips:\n
+Cage selection is a crucial part of Rabbit Farming. Females are so habitual in cages.
+\n
+Now,
+\n
+The minimum recommended size is 1.1 meters (12 sqft.) for living space, hight should be 2-3 meters (depending on rabbit hight) and  9.7 meters (32 sqft) area for playing or movement.
+However, a perfect cage for Rabbit farming in commercially or hobby or use another measurement 36 in wide, 30 inches deep, and 16 inches tall which suitable for rearing all types of Rabbits.
+But,\n
+
+Other sizes may also work well. However, the most important part is providing enough space for movement. Now, there are some considerations too. Like –
+\n
+Multiple compartments: \n
+        A rabbit requires a good-sized hutch or cage preferably with two chambers.
+Cage Materials: The cage must be made of steel and wood. If you made a cage through wood then it will be more effective with the same measurement.
+However, there is a little offbeat for males or doe during pregnancy. The does like to build their own nest by using a straw and their own body hair.
+Playing  Space: If you are growing them commercially, then you have to consider a minimum amount of run/exercise space (able to take three hops). This is essential and ensures healthy animals.
+\nCase Maintenance:
+        \n
+This is important because good house maintenance is notably related to success. It will reduce diseases and also support good health.
+\n
+Keep Does and bucks in different cage. Only, during breeding season you should kept them together.
+\n
+Here are some tips-\n
+
+Always ensure clean water and grain containers.\n
+Plus, keep the hatch in a sunny place in an avalanche of fresh air.\n
+Provide Nest Box in breeding time.\n
+Moreover, to prevent diseases sometime ( each month) clean cages with one cup of chlorine bleach mixed among a gallon of water.
+\nRabbit Care Tips
+        \n
+The caring process is different at different stages and different maturity. However, the general and daily basis care system based on the 2 seasons. However, we should take concern and steps to prevent hassles, especially in two seasons.
+\n
+Rabbits Care in Summer:\n
+we should take some necessary steps that keep healthy.\n
+
+Trim long hair.\n
+Use stone in a rabbit cage.\n
+Now, If possible Ice bag placed into the cage for a certain time.\n
+Careful about feeding, do not feed them such kind of food which increase body temperature
+And, provide freshwater.\n
+Rabbits Care in Winter Season:\n
+Rabbits do not tolerate excessive colds, so you need to ensure warm and comfortable housing during the winter season. Here are some tips form rabbit farming experts. Additionally, if you implemented a few tips that are very helpful for all Rabbit.
+\n
+Use a jute bag or warm carpet.\n
+Provide that food that keeps them warm.\n
+Always try to clean nest and dry as much as possible
+Moreover, place them in sunlight one time a day.\n
+If possible fix up a light on the cage or hitter
+And, provide fresh water plus maintain drinkable temperature.\n
+Remember: Female rabbits require additional care in the breeding time.\n
+\n
+Foods and Feeding Tips:\n
+First, keep a note-\n
+
+Rabbits love to eat fresh vegetables, pellet and hay.\n
+
+The best foods that support a healthy diet are-\n
+
+Hay, Green grass and vegetables, fruits, pellets (minimum 18% fiber). \nHowever, do not provide these feeds – Bread, Avocado, Chocolate, Biscuits, Potatoes, and rice.
+\n
+Here is the general daily feeding ratio of adults- \n
+
+Grass and Hay – provide 24 hours access to this feeds and the ratio should be 70 -80%.\n
+Fresh Veggies and herbs ( Broccoli, lettuce, turnips, tomato, carrots, radish tops, beet greens, cucumber leaves, wheatgrass, etc.) – 10-15%.
+\nHealthy Treat – 5%.\n
+Dry food (Mixed feeds, Pellets) 5%-10%.\n
+Breeding Cycle, Procedure, and Care:\n
+A female Rabbit is sexually matured within 3 to 4 months.\n
+
+Females are habitual in cage and males a little bit different. \n generally, males should place in a different cage. for breeding do not place the male rabbit in a female cage it’s too dangerous always remember females should be kept into the male cage and follow up till the end of all process. then separate after completing this task. Within 13 days pregnancy has been detected.
+\n
+Rabbits Breeding Cycle:\n
+The modern feeding process of Rabbit with organic methods.\n
+
+The food selection process is different according to their consuming percentages. \nIt actually relays on their ages and breed type such for adult Rabbit (6 months):
+\nAt that age, we have to provide various type of Food like vegetables, spinach, carrots, and cucumber and green leaf because those things have the ability to contain Major things like-
+        1.Protein\n
+2. Fiber\n
+3. Minerals\n
+4. Calories\n
+5. Crude\n
+6. Metabolic Energy
+    </string>
+    <string name="passion">
+Growing Conditions for Passion fruits\n
+
+The purple passion fruit is subtropical and prefers a frost-free climate.\n
+The plant doesn’t grow well in intense heat.\n
+The yellow passion fruit is tropical and is even much more intolerable to frost.\n
+Both these passion fruits need protection from the wind. Generally, the annual rainfall should be at least 35 inches.\n
+Passion fruit vines make good container specimens but require regular maintenance.\n
+They perform well indoors.\n
+        \n
+Growth Habit\n
+
+The passion fruit is a vigorous, climbing vine that clings by tendrils to almost any support.\n
+It can grow 15 to 20 ft. per year once established and must have strong support.\n
+It is generally short-lived (5 to 7 years).\n
+        \n
+Foliage\n
+
+The evergreen leaves of passion fruit are alternate, deeply 3-lobed when mature and finely toothed.\n
+They are 3 to 8 inches long, deep green and glossy above, paler and dull beneath and, like the young stems and tendrils, tinged with red or purple, especially in the yellow form.
+\n
+        \nFlowers\n
+
+A single, fragrant flower, 2 to 3 inches wide, is born at each node on the new growth.\n
+The bloom, clasped by 3 large, green, lifelike bracts, consists of 5 greenish-white sepals, 5 white petals and a fringelike corona of straight, white-tipped rays, rich purple at the base.
+It also has 5 stamens with large anthers, the ovary and triple-branched style forming a prominent central structure.
+Purple passion fruit is self-fruitful, but pollination is best under humid conditions.\n
+The flowers of the yellow form are perfect but self-sterile.
+Carpenter bees are the most efficient pollinator, much more so than honey bees.
+Wind is ineffective because of the heaviness and stickiness of the pollen.
+The flowers can also be hand pollinated.\n
+        \n
+Fruit\n
+
+The nearly round or ovoid fruit, 1-1/2 to 3 inches wide, has a tough rind that is smooth and waxy and ranging in hue from dark purple with faint, fine white specks, to light yellow or pumpkin-color.
+Within is a cavity more or less filled with an aromatic mass of double walled, membranous sacs containing orange-colored, pulpy juice and as many as 250 small, hard, dark brown or black, pitted seeds.
+The unique flavor is appealing, musky, guava-like and sweet/tart to tart.\n
+The yellow form has generally larger fruit than the purple, but the pulp of the purple is less acid, richer in aroma and flavor, and has a higher proportion of juice (35-38%).
+\nNumerous hybrids have been made between purple and the yellow passion fruit, often yielding colors and other characteristic intermediate between the two forms.
+\nThe vine, especially the yellow form, is fast-growing and will begin to bear in 1 to 3 years. Ripening occurs 70 to 80 days after pollination.
+
+        \nLocation\n
+
+Plant passion fruit vines in full sun except in very hot areas where partial shade is preferable.
+\nThe vine can be rather rampant, so it is important to plant it next to a chain link fence or install a strong trellis before planting.
+\nThe plants can also be trained into an attractive arbor.\n
+Soil\n
+
+Passion fruit vines grow on many soil types but light to heavy sandy loams with a pH of 6.5 to 7.5 are the most suitable.
+\nExcellent drainage is absolutely necessary.\n
+Also, the soil should be rich in organic matter and low in salts.\n
+If the soil is too acid, lime must be applied. Because the vines are shallow-rooted, they will benefit from a thick layer of organic mulch.
+\nIrrigation\n
+\n
+Regular watering will keep a vine flowering and fruiting almost continuously.\n
+Water requirement is high when fruits are approaching maturity.\n
+If the soil is dry, fruits may shrivel and fall prematurely.\n
+\nFertilization\n
+\n
+Passion fruit vines are vigorous growers and require regular fertilizing.\n
+A good choice is 10-5-20 NPK (or other nitrogenous fertilizer such as DAP) applied at the rate of 1.5 KG per plant 4 times a year.
+\nToo much nitrogen results in vigorous foliage growth at the expense of flowering.
+\nPassion fruit vines should always be watched for deficiencies, particularly in potassium and calcium, and of less importance, magnesium.
+\nPlants that have been damaged by frost should receive a generous fertilizing after the weather has warmed.
+\nPruning\n
+
+\nPruning is necessary to keep the vines within bounds, to make harvest easier and to keep the plants productive by maintaining vigorous growth.
+\nIn warm winter climates prune immediately after harvest. In areas with cool winters prune in early spring.
+\nAs a general rule remove all weak growth and cut back vigorous growth by at least one third.
+\nIn very hot climates allow a thick canopy of foliage to grow around the fruit to prevent sunburn.\n
+\nFrost Protection\n
+
+Because of their mass, passion fruit vines are difficult to cover when freezes threaten, but the layers of leaves help protect the inner branches from frost damage.
+The plant will also usually come back even when frozen to the ground.\n
+The best strategy is to grow the vines against a wall or deck or in a patio.
+\nAny kind of overhead protection provides additional benefits.\n
+\nSeasons and Harvesting\n
+The different flowering seasons of the purple and yellow passion fruits have been mentioned under “Pollination”. In some areas, as in India, the vines bear throughout the year but peak periods are, first, August to December, and, second, March to May.
+\nAt the latter time, the fruits are somewhat smaller, with less juice. In Hawaii, passion fruits mature from June through January, with heaviest crops in July and August and October and November.
+With variations according to cultivar, and with commercial cultivation both above and below the Equator, there need never be a shortage of raw material for processing.
+\nRipe fruits fall to the ground and will roll in between mounded rows. They do not attract flies or ants but should be collected daily to avoid spoilage from soil organisms. In South Africa, they are subject to sunburn damage on the ground and, for that reason, are picked from the vines 2 or 3 times a week in the summertime before they are fully ripe, that is, when they are light-purple.
+\nAt this stage, they will reach the fresh fruit market before they wrinkle. In winter, only one picking per week is necessary.
+\nFor juice processing, the fruit is allowed to attain a deep-purple color. In India and Israel the fruits are always picked from the vine rather than being allowed to fall. It has been found that fallen fruits are lower in soluble solids, sugar content, acidity and ascorbic acid content.
+\nThe fruits should be collected in lugs or boxes, not in bags which will cause “sweating”. If not sent immediately to processing plants, the fruits should be spread out on wire racks where there will be good air circulation.
+\nYield\n
+For the Ugandan scenario, the yields are 650 plants/acre with each vine producing about 20KGs which translates to about 13,000 KG of passion fruit. Since prices range between Ugx 1,002 and Ugx. 2,004, revenue per acre can range between Ugx. 8,857,485 and Ugx. 26,572,455.
+\nStorage\n
+Underripe yellow passionfruits can be ripened and stored at 68º F (20º C) with relative humidity of 85 to 90%.
+\nRipening is too rapid at 86º F (30º C). Ripe fruits keep for one week at 36º to 45º F (2.22º-7.22º C).
+Fruits stored in unperforated, sealed, polyethylene bags at 74º F (23.1º C), have remained in good condition for 2 weeks. Coating with paraffin and storing at 41º to 44.6º F (5º to 7º C) and relative humidity of 85 to 90%, has prevented wrinkling and preserved quality for 30 days.
+\nPests and Diseases
+\n
+Pests\n
+
+1.Passion Vine Mite\n
+This occurs during dry weather in the warm season.
+\nThe infestation defoliates the younger portions of the vines but not the terminus but not the terminus.
+\nMakes brown blemishes on the fruits.
+\n2.Passion Vine Bug\n
+Feeds on flowers and young green fruits.\n
+3.Vegetable Bug\n
+Attacks the growing tips and sucks out the sap when it is at an adult stage.
+4.Leaf Beetles and weevils\n
+Chew the foliage.
+6.Thrips\n
+Injure and cause stunting of young seedlings in nurseries.\n
+In dry weather, they feed on leaves and fruits, leaving them defaced and prone to shriveling and eventually falling off prematurely.
+7.Nematodes\n
+Cause extreme thickening of the roots (root-knot nematode).\n
+Note that the yellow passion fruit is rather resistant to nematodes.
+Other types of nematodes include the spiral nematode and the lesion nematode.\n
+\nDiseases
+
+1.Brown spot\n
+Commonly occurs in dry weather.\n
+One of the leading diseases in yellow passion fruits.\n
+Leaf spots are visible.\n
+Lesions on the branches are also visible.\n
+Crinkling of leaves is also evident.\n
+2.Septoria spot\n
+Has more numerous and smaller spots the brown spot.\n
+It is prevalent during summer and fall seasons.\n
+It is spread by dew, rain and overhead irrigation.\n
+It is believed to have a hand in the contraction of base rot which is spread through injury from mowers or other mechanical equipment.
+\n3.Fusarium wilt\n
+This arises from a soil-borne fungus.\n
+There is visible splitting of the trunk and shedding of the bark on the plant.\n
+The first signs are chlorosis, necrosis and defoliation.\n
+It can be remedied by grafting the purple-yellow hybrids onto the yellow passion fruit rootstock because it is more resistant.
+\n4.Woodiness or Bullet\n
+This is caused by a virus.\n
+The disease appears as small misshapen fruits with a thick rind and small pulp cavity and is a serious plague of the purple passion fruit.
+\nThe yellow passion fruit is rather resistant to this disease.
+    </string>
+    <string name="myfarm">MyFarmUg</string>
+    <string name="Login">Login</string>
+    <string name="register">Register Here with MyFarmUg</string>
+    <string name="welcome">Welcome to </string>
+    <string name="click_here">click here to continue</string>
+    <string name="solutions">MyFarmUg gives you the perfect farming solutions</string>
+    <string name="FarmingTips">Farming Tips</string>
+    <string name="Update">Update Profile</string>
+    <string name="Location">Location</string>
+    <string name="languages">languages</string>
+</resources>

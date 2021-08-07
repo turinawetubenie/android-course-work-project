@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myfarmug">
+
+    <application
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyFarmUg"
+        android:fullBackupContent="@xml/backup_descriptor">
+        <activity android:name=".carrot"/>
+        <activity android:name=".Tomato" />
+        <activity android:name=".Rabbit" />
+        <activity android:name=".Passion" />
+        <activity android:name=".Fish" />
+        <activity android:name=".Mellon" />
+        <activity android:name=".Paper" />
+        <activity android:name=".Beans" />
+        <activity android:name=".Chat" />
+        <activity android:name=".Location" />
+        <activity android:name=".Farming_Tips" />
+        <activity android:name=".Update_profile" />
+        <activity android:name=".complete_profile" />
+        <activity
+            android:name=".Register"
+            android:theme="@style/Theme.MyFarmUg" />
+        <activity android:name=".Home" />
+        <activity
+            android:name=".Log_in"
+            android:theme="@style/Theme.MyFarmUg" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.MyFarmUg">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

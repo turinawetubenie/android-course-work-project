@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@color/teal_700"
+    tools:context=".Update_profile">
+
+    <TextView
+        android:id="@+id/mrfarm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=" Update your profile "
+        android:textColor="@android:color/holo_orange_light"
+        android:textSize="30sp"
+        android:textStyle="bold|italic" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/user"
+        android:background="@color/cardview_light_background"
+        android:drawableRight="@drawable/person"
+        android:hint="User Name"
+        android:textSize="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pswd"
+        android:inputType="textPassword"
+        android:background="@color/cardview_light_background"
+        android:drawableRight="@drawable/lock"
+        android:hint="Password"
+        android:textSize="20dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/cpswd"
+        android:inputType="textPassword"
+        android:layout_below="@+id/pswd"
+        android:background="@color/cardview_light_background"
+        android:drawableRight="@drawable/lock"
+        android:hint="Comfirm Password"
+        android:textSize="20dp"
+        />
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="What do you specialise in"
+        android:background="@color/cardview_light_background">
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/poutry"
+        android:background="#CECCD1"
+        android:layout_marginTop="5dp"
+        android:text="Poutry"
+        android:onClick="CheckBoxClicked"
+        />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/live"
+        android:background="#CECCD1"
+        android:text="Livestock"
+        android:onClick="CheckBoxClicked"
+        />
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/crops"
+        android:background="#CECCD1"
+        android:text="Crops"
+        android:onClick="CheckBoxClicked"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:id="@+id/pnumber"
+        android:layout_height="40dp"
+        android:layout_below="@+id/sname"
+        android:background="@color/cardview_light_background"
+        android:drawableRight="@drawable/phone"
+        android:inputType="textPhonetic"
+        android:hint="PhoneNumber"
+        android:textSize="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sub"
+        android:text="Submit"
+        android:onClick="Submit"/>
+
+
+
+</LinearLayout>
